@@ -21,9 +21,16 @@
 <img align="center" alt="Itallo-TS" height="30" width="40"                                                                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="Itallo-RJS" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  </div>
- 
-                     background: url('https://api.iconify.design/logos/cypress.svg') no-repeat center center / contain;                                                                       
+ <img align="center" alt="Itallo-Cypress" height="30" width="30" 
+   src="https://user-images.githubusercontent.com/74964497/208251568-4e7a57f7-22f8-4844-a81a-2e464f93f451.png" />
+  </div>                 
+  <br>
+  <div align="center"> 
+  <img  alt="Itallo-Figma" height="30"  
+  src="https://user-images.githubusercontent.com/74964497/208251666-3af5b9a0-371c-4c8f-96d6-984c490d36ad.png" />
+  
+  </div>  
+  
 ##
 <div align = "center">
   <a href="https://www.instagram.com/itallodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
