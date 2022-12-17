@@ -1,6 +1,6 @@
 # Hi, I'm @ItalloVasconcelos, 
 - 👀 I’m interested in front - end jobs/challenges 
-- 🌱 I’m currently learning Cypress, DevOps and UI/UX design with Figma.
+- 🌱 I’m currently learning Cypress, Azure DevOps and UI/UX design with Figma.
 - 📫 How to reach me: itallo.prog@gmail.com
 
 <div align="center">
@@ -25,6 +25,7 @@
   <img align="center" alt="Itallo-RJS" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" />
   </div>
+  <iconify-icon icon="logos:cypress"></iconify-icon>
                                                                                             
 ##
 <div align = "center">
