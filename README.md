@@ -22,11 +22,8 @@
 <img align="center" alt="Itallo-RJS" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
-  <img align="center" alt="Itallo-RJS" height="30" width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" />
-  </div>
-  <script src="https://code.iconify.design/iconify-icon/1.0.2/iconify-icon.min.js"></script>
-                                                                                            
+ 
+                     background: url('https://api.iconify.design/logos/cypress.svg') no-repeat center center / contain;                                                                       
 ##
 <div align = "center">
   <a href="https://www.instagram.com/itallodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
