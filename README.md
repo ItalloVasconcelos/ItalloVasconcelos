@@ -23,7 +23,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
   <img align="center" alt="Itallo-RJS" height="30" width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" />
   </div>
                                                                                             
 ##
