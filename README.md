@@ -25,7 +25,7 @@
   <img align="center" alt="Itallo-RJS" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" />
   </div>
-  <iconify-icon icon="logos:cypress"></iconify-icon>
+  <script src="https://code.iconify.design/iconify-icon/1.0.2/iconify-icon.min.js"></script>
                                                                                             
 ##
 <div align = "center">
