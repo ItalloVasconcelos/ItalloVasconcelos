@@ -1,6 +1,6 @@
 # Hi, I'm @ItalloVasconcelos, 
 - 👀 I’m interested in front - end jobs/challenges 
-- 🌱 I’m currently learning TypeScript, SASS, ReactJS
+- 🌱 I’m currently learning Cypress, DevOps and UI/UX design with Figma.
 - 📫 How to reach me: itallo.prog@gmail.com
 
 <div align="center">
