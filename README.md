@@ -27,47 +27,6 @@ My work goes beyond visuals — I ship real-world applications with:
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Keycloak](https://img.shields.io/badge/-Keycloak-0064a5?style=flat-square&logo=keycloak&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-
----
-
-## 🔥 GitHub Insights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallovasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallovasconcelos&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itallovasconcelos&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 📦 Featured Projects
-
-- **[TechStore – Shop Online](https://github.com/ItalloVasconcelos/techstore---shop-online)**  
-  Full e-commerce with cart, filtering, product pages and modern layout. Built with React, TypeScript and modular architecture.
-
-- **[Orthomovi](https://github.com/ItalloVasconcelos/Orthomovi)**  
-  Medical app built with React, SCSS and clean UI — focused on responsiveness, performance and modular design.
-
-
-- **[Enterprise Dashboard (Versatus)](#)**  
-  Large-scale dashboard using Redux, Carbon Design System, Storybook, and microfrontend-ready architecture. *(Private Repo)*
-
----
 
 ## 🌐 Portfolio
 
@@ -83,5 +42,49 @@ My work goes beyond visuals — I ship real-world applications with:
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ItalloVasconcelos)
 
 ---
+
+
+## 🛠️ Tech Stack & Tools
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Keycloak](https://img.shields.io/badge/-Keycloak-0064a5?style=flat-square&logo=keycloak&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+
+---
+
+## 📦 Featured Projects
+
+- **[TechStore – Shop Online](https://github.com/ItalloVasconcelos/techstore---shop-online)**  
+  Full e-commerce with cart, filtering, product pages and modern layout. Built with React, TypeScript and modular architecture.
+
+- **[Orthomovi](https://github.com/ItalloVasconcelos/Orthomovi)**  
+  Medical app built with React, SCSS and clean UI — focused on responsiveness, performance and modular design.
+
+
+- **[Enterprise Dashboard (Versatus)](#)**  
+  Large-scale dashboard using Redux, Carbon Design System, Storybook, and microfrontend-ready architecture. *(Private Repo)*
+
+  ---
+
+## 🔥 GitHub Insights
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallovasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallovasconcelos&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itallovasconcelos&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 
 > 🧠 _"Strong front-ends are not made of pixels. They are made of structure, tests, and intention."_
