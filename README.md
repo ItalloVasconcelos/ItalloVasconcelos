@@ -3,15 +3,14 @@
 <h1 align="center">Itallo Sávio</h1>
 <p align="center">
   <b>Front-end Developer · 4+ years experience</b><br>
-  Building scalable, tested and secure front-ends — for the real world.
-
-  See My portfoli heer:  **🔗 [itallosaviodev.com](https://itallosaviodev.com)**
+  Building scalable, tested and secure front-ends — for the real world. </br> 
+  See My portfolio here: https://itallosaviodev.com
 </p>
+
 
 ---
 
 ## 🚀 I don’t just write code — I build front-ends that scale.
-
 I’m a front-end developer with 4+ years of experience turning business logic into scalable and maintainable UIs using **React**, **TypeScript** and modern architectural standards.
 
 My work goes beyond visuals — I ship real-world applications with:
