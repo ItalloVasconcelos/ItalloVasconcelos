@@ -1,53 +1,88 @@
-# Hi, I'm Itallo Vasconcelos 👋
+<!-- README.md -->
 
-I'm a front-end developer with 4+ years of experience crafting modern web interfaces using React, TypeScript, and scalable design systems.  
-I care about clean code, accessibility, performance, and creating UI that truly solves user problems.
+<h1 align="center">Itallo Sávio</h1>
+<p align="center">
+  <b>Front-end Developer · 4+ years experience</b><br>
+  Building scalable, tested and secure front-ends — for the real world.
 
-## 🚀 Currently learning
-- Cypress (E2E Testing)
-- Azure DevOps (CI/CD)
-- UI/UX Design (Figma)
-
-## 📫 Reach me
-itallo.prog@gmail.com
+  See My portfoli heer:  **🔗 [itallosaviodev.com](https://itallosaviodev.com)**
+</p>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ItalloVasconcelos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallovasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallovasconcelos&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+## 🚀 I don’t just write code — I build front-ends that scale.
 
-<br/>
+I’m a front-end developer with 4+ years of experience turning business logic into scalable and maintainable UIs using **React**, **TypeScript** and modern architectural standards.
 
-<div align="center"> 
-  <!-- Core skills -->
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img alt="Cypress" height="30" width="30" src="https://user-images.githubusercontent.com/74964497/208251568-4e7a57f7-22f8-4844-a81a-2e464f93f451.png" />
-</div>
+My work goes beyond visuals — I ship real-world applications with:
 
-<br/>
-
-<div align="center">
-  <img alt="Figma" height="30" src="https://user-images.githubusercontent.com/74964497/208251666-3af5b9a0-371c-4c8f-96d6-984c490d36ad.png" />
-</div>
+- ✅ **Scalable architecture**: SOLID, Design Systems, Atomic Design, Micro frontends  
+- 🧪 **Testing culture**: Unit + E2E (Jest, Cypress, Testing Library)  
+- 🔐 **Security-aware**: JWT, OAuth2, Keycloak, RBAC  
+- ⚙️ **DevOps mindset**: CI/CD, GitHub Actions, Azure Pipelines  
+- 📱 **Mobile-first & PWA ready**  
+- 🎯 **Performance-driven UIs** with accessibility in mind  
+- 🧩 **Microservices**-ready front-ends with BFF (Backend for Frontend) layers  
+- 📦 Documentation, Storybook, Component-based architecture  
+- 🤝 Strong collaboration with Product, Design & Backend teams  
 
 ---
 
-## 🌐 Connect with me
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <a href="https://www.instagram.com/itallodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/ItalloVasconcelos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://discord.io/ItalloVasconcelos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-  <a href="mailto:itallo.prog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://gitlab.com/ItalloVas211" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a> 
-</div>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Keycloak](https://img.shields.io/badge/-Keycloak-0064a5?style=flat-square&logo=keycloak&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+
+---
+
+## 🔥 GitHub Insights
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallovasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallovasconcelos&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itallovasconcelos&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📦 Featured Projects
+
+- **[TechStore – Shop Online](https://github.com/ItalloVasconcelos/techstore---shop-online)**  
+  Full e-commerce with cart, filtering, product pages and modern layout. Built with React, TypeScript and modular architecture.
+
+- **[Orthomovi](https://github.com/ItalloVasconcelos/Orthomovi)**  
+  Medical app built with React, SCSS and clean UI — focused on responsiveness, performance and modular design.
+
+
+- **[Enterprise Dashboard (Versatus)](#)**  
+  Large-scale dashboard using Redux, Carbon Design System, Storybook, and microfrontend-ready architecture. *(Private Repo)*
+
+---
+
+## 🌐 Portfolio
+
+> See my full portfolio, case studies, and resume at  
+> **🔗 [itallosaviodev.com](https://itallosaviodev.com)**
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itallo.prog@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ItalloVasconcelos)
+
+---
+
+> 🧠 _"Strong front-ends are not made of pixels. They are made of structure, tests, and intention."_
